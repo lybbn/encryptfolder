@@ -1,6 +1,6 @@
 软件截图：
 
-![](https://github.com/lybbn/encryptfolder/blob/main/1.png)
+![encryptfolder](https://github.com/lybbn/encryptfolder/blob/main/1.png)
 
 软件使用说明：
 
